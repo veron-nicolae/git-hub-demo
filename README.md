@@ -2,4 +2,4 @@
 
 Astazi invatam despre GitHub!
 
-Urmeaza comanada git pull
+Urmeaza comanda git pull
